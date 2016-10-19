@@ -1,0 +1,31 @@
+<dishes>
+    <dish>
+        <photo>2.jpg</photo>
+        <title>Тарталетки с красной икрой</title>
+        <serving>60/50</serving>
+        <varTitle>wgf</varTitle>
+        <varTitle>1212</varTitle>
+        <varTitle>wrwr</varTitle>
+    </dish>
+
+    <dish>
+        <photo>3.jpg</photo>
+        <title>Закуска по-русски</title>
+        <serving>70/50/2/10</serving>
+    </dish>
+
+    <dish>
+        <photo>8.jpg</photo>
+        <title>Ассорти баклажаны</title>
+        <serving>100/5</serving>
+        <varTitle>Жаренные баклажаны с помидорами</varTitle>
+        <price>1</price>
+        <varTitle>Жаренные баклажаны с чесноком</varTitle>
+        <price>2</price>
+        <varTitle>Жаренные баклажаны с орехами</varTitle>
+        <price>3</price>
+
+    </dish>
+
+
+</dishes>
